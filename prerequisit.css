@@ -1,0 +1,39 @@
+/* #box1{
+   width :700px;
+   height:400px;
+   background: tomato;
+   font-size:150px;
+   
+
+   animation: slideIn;
+   animation-duration : 5s;
+}
+
+@keyframes slideIn{
+   from{margin-left :100%}
+   to{margin-left: 0%;}
+}
+
+sub-container{
+   margin-top: 20px;
+} */
+
+.container{
+   width:200px;
+   height : 200px;
+   background: tomato;
+   font-size: 50px;
+   
+}
+
+#newForm{
+
+   border: solid;
+   border-color: silver;
+   border-width: 2px;
+   background-color: silver;
+   padding: 10px;
+   margin-right: 80%;
+}
+
+
